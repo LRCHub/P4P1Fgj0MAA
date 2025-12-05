@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ロックンロールは鳴り止まないっ - From THE FIRST TAKE",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2025-12-05T20:16:26.866417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/01_ロックンロールは鳴り止まないっ_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/02_ロックンロールは鳴り止まないっ_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ REMIX",
+      "artist": "Shinsei Kamattechan feat. tofubeats",
+      "has_synced": true,
+      "path": "select/03_ロックンロールは鳴り止まないっ_REMIX_Shinsei_Kamattechan_feat._tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ - 2011 remaster",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/04_ロックンロールは鳴り止まないっ_-_2011_remaster_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ - Rock`nRoll Wa Nariyamanai",
+      "artist": "Shinsei kamattechan",
+      "has_synced": true,
+      "path": "select/05_ロックンロールは鳴り止まないっ_-_Rock`nRoll_Wa_Nariyamanai_Shinsei_kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ - 2015remaster",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/06_ロックンロールは鳴り止まないっ_-_2015remaster_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ - 2023 Remaster",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/07_ロックンロールは鳴り止まないっ_-_2023_Remaster_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/08_ロックンロールは鳴り止まないっ_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロックンロールは鳴り止まないっ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_ロックンロールは鳴り止まないっ_神聖かまってちゃん.txt"
+    }
+  ]
+}
